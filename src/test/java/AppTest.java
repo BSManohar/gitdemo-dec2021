@@ -17,7 +17,10 @@ public class AppTest {
     System.out.println("Running test 3");
   }
 
-
+  @Test
+  public void test4(){
+    System.out.println("Running test 4");
+  }
 
 
 }
